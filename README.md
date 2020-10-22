@@ -4,7 +4,9 @@
 ## Steps To Run 
 **Step 1**
 Clone repo
+```
 > git clone https://github.com/nguyendankha/fossil-test.git
+```
 
 **Step 2**
 Open project with your prefered IDE 
@@ -14,5 +16,7 @@ Open project with your prefered IDE
 Open the package _**test**_
 Right click on the class and select **Run as Java application** for below files:
 > testQuestion1
+
 > testQuestion2
+
 > testQuestion3
